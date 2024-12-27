@@ -1,0 +1,15 @@
+src/
+  app.module.ts
+  main.ts
+  database/
+    database.interface.ts
+    mysql.service.ts
+    mongo.service.ts
+    database.factory.ts
+    database.module.ts
+  items/
+    items.controller.ts
+    items.service.ts
+    items.module.ts
+    items.entity.ts
+    items.schema.ts
